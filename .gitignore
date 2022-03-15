@@ -117,5 +117,6 @@ dist
 .pnp.*
 
 testing-images/
+adjusted_testing-images/
 
 .idea/
